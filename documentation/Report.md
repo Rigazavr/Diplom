@@ -25,5 +25,5 @@
 
 ## **Отчёты о проведенном тестировании:**  
 
-* [Отчёт Allure](./Diplom_marrakech/documentation/Allure Report.png)
-* [Отчёт Gradle](./Diplom_marrakech/documentation/Gradle Report.png).  
+* [Отчёт Allure](https://github.com/Rigazavr/Diplom/blob/master/documentation/Allure%20Report.png);
+* [Отчёт Gradle](https://github.com/Rigazavr/Diplom/blob/master/documentation/Gradle%20Report.png).  
