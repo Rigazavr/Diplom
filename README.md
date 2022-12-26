@@ -33,6 +33,6 @@
 ## **Ссылки на документацию**
 
 * [Дипломное задание](https://github.com/netology-code/qa-diploma/blob/master/README.md);
-* [План автоматизации](./Diplom_marrakech/documentation/Plan.md)
-* [Отчет по итогам тестирования](./Diplom_marrakech/documentation/Report.md)
-* [Отчет о проведенной автоматизации](./Diplom_marrakech/documentation/Summary.md)
+* [План автоматизации](documentation/Plan.md)
+* [Отчет по итогам тестирования](documentation/Report.md)
+* [Отчет о проведенной автоматизации](documentation/Summary.md)
